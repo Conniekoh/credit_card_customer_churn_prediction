@@ -41,11 +41,11 @@ ___
     * Model Building (du XGboost, random forest to fnd the best model score!
 6. Conclusion
    * There are 16.07% of customers who have churned.
-   * Proportion of gender count is almost equally distributed (52.9% male and 47.1%) compare to proportion of existing and attributed customer count (83.9% and 16.1%) which is highly impbalanced.
-   * I compared the proportion of both male and female by gender and was able to get the results showing that this proportion is alamost the same and compareable - **there are 14.4% more attrited male than attrited female** 
+   * The proportion of gender count is almost equally distributed (52.9% male and 47.1%) compare to proportion of existing and attributed customer count (83.9% and 16.1%) which is highly impbalanced.
+   * The proportion of attrited customers by gender **there are 14.4% more male than female who have churned** 
    * **Customers who have churned are highly educated** - A high proportion of education level of attrited customer is Graduate level (29.9%), followed by Post-Graduate level (18.8%)** 
-   * A high proportion of marital status of customers who have cuhurned is Married (43.6%), followed by Single (41.1%) compared to Divorced (7.4%) and Unknown (7.9%) status  - **marital stuats of the attributed customers are highly clustered in Married status and Single** 
-   * As you  can see from the proportion of income category of attrited customer, it is highy concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doon't likely leave their credit card services than meddle-income customer** 
+   * A high proportion of marital status of customers who have cuhurned is Married (43.6%), followed by Single (41.1%) compared to Divorced (7.4%) and Unknown (7.9%) status  - **Marital stuats of the attributed customers are highly clustered in Married status and Single** 
+   * As you can see from the proportion of income category of attrited customer, it is highy concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doon't likely leave their credit card services than meddle-income customer** 
 
 
 Aknowledgements:
