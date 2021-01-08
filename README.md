@@ -24,7 +24,6 @@ ___
     * Customer age distribution to see if customer age is normally distributed.
     * Proportion of customer gender **count** (countplot and piechart)
     * Porportion of existing and attrited customers **count**
-    
     * Proportion of existing and attrited customers **by gender** (countplot and piechart)  
     * Proportion of entire education levels
     * Proportion of education level **by existing and attrited customer**
