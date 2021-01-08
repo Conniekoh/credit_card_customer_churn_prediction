@@ -6,6 +6,8 @@ ___
 
 Credit card institutions use customer churning to predict who is going to stop using their credit card services. This churn metrics helps institutions improve customer retention.
 
+This dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
+
 ## Goal:
 My goal is to predict customer churn from the dataset and gain some insights on how the bank can reduce the customer churn. 
 ___
@@ -19,17 +21,18 @@ ___
     * Check for the null values in each column
     * Drop unnecessary columns - There are 2 columns which seem unnessary
 4. Exploratory Data Analysis and Data Visualization  
-    * Replace target value (existing customer/attired customer)
     * Customer age distribution to see if customer age is normally distributed.
-    * Proportion of customer gender count
-    * Proportion of existing and attrited customers vs gender (countplot and piechart)  
+    * Proportion of customer gender **count** (countplot and piechart)
+    * Porportion of existing and attrited customers **count**
+    
+    * Proportion of existing and attrited customers **by gender** (countplot and piechart)  
     * Proportion of entire education levels
-    * Proportion of education level by existing and attrited customer
-    * Proportion of education level by gender (pieplot)
-    * Proportion of education level by gender (countplot)
-    * Proportion of marital status by attrited and existing customers 
+    * Proportion of education level **by existing and attrited customer**
+    * Proportion of education level **by gender** (pieplot and countplot)
+    * Proportion of marital status **by attrited and existing customers** 
     * Correlation using heatmap
     * Proportion of income category
+    * Proportion of income category by customer
     * Customer age count by customer
 5. Customer Churn Prediciton
     * Preprocessing to transform categorial to numerical to data pridiction
@@ -38,6 +41,13 @@ ___
     * RandomForestClassifier
     * Model Building (du XGboost, random forest to fnd the best model score!
 6. Conclusion
+   * There are 16.07% of customers who have churned.
+   * Proportion of gender count is almost equally distributed (52.9% male and 47.1%) compare to proportion of existing and attributed customer count (83.9% and 16.1%) which is highly impbalanced.
+   * I compared the proportion of both male and female by gender and was able to get the results showing that this proportion is alamost the same and compareable - **there are 14.4% more attrited male than attrited female** 
+   * **Customers who have churned are highly educated** - A high proportion of education level of attrited customer is Graduate level (29.9%), followed by Post-Graduate level (18.8%)** 
+   * A high proportion of marital status of customers who have cuhurned is Married (43.6%), followed by Single (41.1%) compared to Divorced (7.4%) and Unknown (7.9%) status  - **marital stuats of the attributed customers are highly clustered in Married status and Single** 
+   * As you  can see from the proportion of income category of attrited customer, it is highy concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doon't likely leave their credit card services than meddle-income customer** 
+
 
 Aknowledgements:
 The original dataset can be found on this [website](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
