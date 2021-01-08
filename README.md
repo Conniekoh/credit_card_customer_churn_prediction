@@ -8,6 +8,9 @@ Credit card institutions use customer churning to predict who is going to stop u
 
 This dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
 
+Aknowledgements:
+The original dataset can be found on this [website](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
 ## Goal:
 My goal is to predict customer churn from the dataset and gain some insights on how the bank can reduce the customer churn. 
 ___
@@ -46,10 +49,7 @@ ___
    * **Customers who have churned are highly educated** - A high proportion of education level of attrited customer is Graduate level (29.9%), followed by Post-Graduate level (18.8%)** 
    * A high proportion of marital status of customers who have cuhurned is Married (43.6%), followed by Single (41.1%) compared to Divorced (7.4%) and Unknown (7.9%) status  - **Marital stuats of the attributed customers are highly clustered in Married status and Single** 
    * As you can see from the proportion of income category of attrited customer, it is highy concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doon't likely leave their credit card services than meddle-income customer** 
-
-
-Aknowledgements:
-The original dataset can be found on this [website](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+___
 
 :file_folder: [See my module](https://github.com/Conniekoh/Web-Scrapping/blob/master/codility/How%20to%20Scrap%20News%20Article.ipynb)
 ___
