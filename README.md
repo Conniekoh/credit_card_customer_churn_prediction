@@ -51,7 +51,7 @@ ___
    * As you can see from the proportion of income category of attrited customer, it is highy concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doon't likely leave their credit card services than meddle-income customer** 
 ___
 
-:file_folder: [See my module](https://github.com/Conniekoh/Web-Scrapping/blob/master/codility/How%20to%20Scrap%20News%20Article.ipynb)
+:file_folder: [See my module](https://github.com/Conniekoh/credit_card_customer_churn_prediction/blob/main/codility/credit-card-customer-churn-prediction.ipynb)
 ___
 ## Before Release
 - [x] Finish my changes
