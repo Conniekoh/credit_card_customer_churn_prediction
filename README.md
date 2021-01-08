@@ -39,6 +39,9 @@ ___
     * Model Building (du XGboost, random forest to fnd the best model score!
 6. Conclusion
 
+Aknowledgements:
+The original dataset can be found on this [website](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
 :file_folder: [See my module](https://github.com/Conniekoh/Web-Scrapping/blob/master/codility/How%20to%20Scrap%20News%20Article.ipynb)
 ___
 ## Before Release
