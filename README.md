@@ -8,7 +8,7 @@ Credit card institutions use customer churning to predict who is going to stop u
 
 This dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
 
-Aknowledgements:
+Aknowledgement:
 The original dataset can be found on this [website](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 ## Goal:
