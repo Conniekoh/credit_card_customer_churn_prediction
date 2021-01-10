@@ -48,7 +48,7 @@ ___
    * The proportion of attrited customers by gender **there are 14.4% more male than female who have churned** 
    * **Customers who have churned are highly educated** - A high proportion of education level of attrited customer is Graduate level (29.9%), followed by Post-Graduate level (18.8%)** 
    * A high proportion of marital status of customers who have churned is Married (43.6%), followed by Single (41.1%) compared to Divorced (7.4%) and Unknown (7.9%) status  - **Marital stuats of the attributed customers are highly clustered in Married status and Single** 
-   * As you can see from the proportion of income category of attrited customer, it is highly concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doesn't likely leave their credit card services than meddle-income customer** 
+   * As you can see from the proportion of income category of attrited customer, it is highly concentrated around $60K - $80K income (37.6%), followed by Less than $40K income (16.7%) compare to attrited customers with higher annual income of 80K-120K(14.9%) and over $120K + (11.5%). **I assume that customers with higher income doesn't likely to leave their credit card services than meddle-income customer** 
 ___
 
 :file_folder: [See my module](https://github.com/Conniekoh/credit_card_customer_churn_prediction/blob/main/codility/credit-card-customer-churn-prediction%20(1).ipynb)
