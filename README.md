@@ -52,8 +52,6 @@ ___
 ___
 
 :file_folder: [See my module](https://github.com/Conniekoh/credit_card_customer_churn_prediction/blob/main/codility/credit-card-customer-churn-prediction.ipynb)
-
-[See my module] (https://github.com/Conniekoh/credit_card_customer_churn_prediction/blob/main/codility/credit-card-customer-churn-prediction.ipyn)
 ___
 ## Before Release
 - [x] Finish my changes
