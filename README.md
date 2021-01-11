@@ -12,7 +12,7 @@ Aknowledgement:
 The original dataset can be found on this [website](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 ## Goal:
-My goal is to predict customer churn from the dataset and gain some insights on how the bank can reduce the customer churn. 
+My goal is to predict customer churn from the dataset and gain some insights on how the bank can reduce the customers who have churned. 
 ___
 ## Table of Contents: 
 1. Importing Libraries
